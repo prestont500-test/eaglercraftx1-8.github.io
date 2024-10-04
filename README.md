@@ -6,7 +6,7 @@ EaglerCraftX Client for 1.8 (+ 1.5.2, 1.9 Options)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaglercraftx1-8&label=Repository%20views&color=0e75b6&style=flat" alt="eaglercraftx1-8" /> (If you fork this repository the views add up from the forks unless you remove this in your fork)</p>
 
 > [!TIP]
-> If you are forking this repository and want to keep your fork up to date. You can use the sync fork button **(safer)** on the repository or https://github.com/apps/pull to auto sync (but read warning below).
+> If you are forking this repository and want to keep your fork up to date. You can use the sync fork button **(safer)** on the repository or https://github.com/apps/pull to auto sync **(but read warning below)**.
 
 > [!WARNING]
 > This bot deletes all changes you made when it syncs to a new commit so you should backup your changes.
