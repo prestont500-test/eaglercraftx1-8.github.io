@@ -43,6 +43,10 @@ main {
     margin-bottom: 20px;
 }
 
+#repomydepot{
+    color: #9656ce;
+}
+
 .Container18, .Container15, .ContainerOther {
     display: flex;
     flex-wrap: wrap;
