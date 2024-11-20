@@ -16,6 +16,8 @@ $(document).ready(function() {
 
             const givemeheader = document.querySelector('header');
             givemeheader.style.backgroundColor = '#00c0bf';
+            const repoHref = document.getElementById('repomydepot');
+            repoHref.text-shadow = '0 0 3px #FF0000, 0 0 5px #0000FF';
             
             const foot = document.querySelector('.footer');
             foot.style.backgroundColor = '#010101';
