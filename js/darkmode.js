@@ -13,6 +13,9 @@ $(document).ready(function() {
             headTwo.style.color = '#f1f1f1';
             const head = document.querySelector('h1');
             head.style.color = '#f1f1f1';
+
+            const givemeheader = document.querySelector('header');
+            givemeheader.style.backgroundColor = '#30d3d2';
             
             const foot = document.querySelector('.footer');
             foot.style.backgroundColor = '#010101';
@@ -39,6 +42,9 @@ $(document).ready(function() {
             headTwo.style.color = 'black';
             const head = document.querySelector('h1');
             head.style.color = 'black';
+
+            const givemeheader = document.querySelector('header');
+            givemeheader.style.backgroundColor = '#4caf50';
             
             const foot = document.querySelector('.footer');
             foot.style.backgroundColor = '#ddd';
