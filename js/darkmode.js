@@ -17,7 +17,7 @@ $(document).ready(function() {
             const givemeheader = document.querySelector('header');
             givemeheader.style.backgroundColor = '#00c0bf';
             const repoHref = document.getElementById('repomydepot');
-            repoHref.style.backgroundColor = '#33ff66';
+            repoHref.style.color = '#00c0bf';
             
             const foot = document.querySelector('.footer');
             foot.style.backgroundColor = '#010101';
@@ -47,6 +47,8 @@ $(document).ready(function() {
 
             const givemeheader = document.querySelector('header');
             givemeheader.style.backgroundColor = '#4caf50';
+            const repoHref = document.getElementById('repomydepot');
+            repoHref.style.color = '#9656ce';
             
             const foot = document.querySelector('.footer');
             foot.style.backgroundColor = '#ddd';
