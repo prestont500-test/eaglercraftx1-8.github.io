@@ -15,7 +15,7 @@ $(document).ready(function() {
             head.style.color = '#f1f1f1';
 
             const givemeheader = document.querySelector('header');
-            givemeheader.style.backgroundColor = '#30d3d2';
+            givemeheader.style.backgroundColor = '#00c0bf';
             
             const foot = document.querySelector('.footer');
             foot.style.backgroundColor = '#010101';
